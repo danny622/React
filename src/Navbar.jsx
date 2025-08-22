@@ -11,7 +11,7 @@ function Navbar() {
     <nav className="bg-indigo-600 text-white p-4">
       <div className="flex justify-between items-center">
         {/* Logo "Mi App" */}
-        <div className="text-xl font-bold">Mi navbar</div>
+        <div className="text-xl font-bold">navbar</div>
 
         {/* Enlaces para pantallas grandes */}
         <div className="hidden sm:flex gap-x-6">
